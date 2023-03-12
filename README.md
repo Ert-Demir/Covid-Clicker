@@ -1,6 +1,6 @@
 # Covid-Clicker
 
-(Ironhack Game project with JS, HTML and CSS)
+(Ironhack Game project with Javascript, HTML and CSS)
 
 Covid Defender is a click-defender game where you play as a white blood cell inside a vessel fighting against the coronaviruses that are trying to invade the body. 
 Your mission is to kill as many viruses as possible and defend the body from the virus attack.
