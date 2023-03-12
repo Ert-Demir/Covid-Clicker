@@ -1,6 +1,4 @@
-# Covid-Clicker
-
-(Ironhack Game project with Javascript, HTML and CSS)
+# Covid Defender
 
 Covid Defender is a click-defender game where you play as a white blood cell inside a vessel fighting against the coronaviruses that are trying to invade the body. 
 Your mission is to kill as many viruses as possible and defend the body from the virus attack.
@@ -16,11 +14,11 @@ How to Play
 
 Upgrades
 There are five different upgrades available for your white blood cell fighter:
-1. Double Click: This upgrade allows your white blood cell fighter to perform double clicks, allowing you to kill viruses faster. Cost: 50 points
-2. Auto Click: This upgrade allows your white blood cell fighter to automatically click on viruses, allowing you to kill viruses without manual clicking. Cost: 100 points
-3. Double Auto Click: This upgrade combines the benefits of Double Click and Auto Click, allowing your white blood cell fighter to perform double clicks automatically. Cost: 150 points
-4. 5 Clicks: This upgrade increases the number of clicks your white blood cell fighter performs each time you click, allowing you to kill viruses faster. Cost: 200 points
-5. 5 Auto Clicks: This upgrade increases the number of automatic clicks your white blood cell fighter performs each time, allowing you to kill viruses without manual clicking faster. Cost: 250 points
+1. Double Click: This upgrade allows your white blood cell fighter to perform double clicks, allowing you to kill viruses faster. Cost: 25 points
+2. Auto Click: This upgrade allows your white blood cell fighter to automatically click on viruses, allowing you to kill viruses without manual clicking. Cost: 40 points
+3. Double Auto Click: This upgrade combines the benefits of Double Click and Auto Click, allowing your white blood cell fighter to perform double clicks automatically. Cost: 60 points
+4. 5 Clicks: This upgrade increases the number of clicks your white blood cell fighter performs each time you click, allowing you to kill viruses faster. Cost: 75 points
+5. 5 Auto Clicks: This upgrade increases the number of automatic clicks your white blood cell fighter performs each time, allowing you to kill viruses without manual clicking faster. Cost: 90 points
 Note: Upgrades can be purchased using points earned from killing viruses. Once an upgrade is purchased, its effect will be applied immediately. You can purchase upgrades in any order you like, but keep in mind that some upgrades may be more useful than others depending on your play style.
 
 
