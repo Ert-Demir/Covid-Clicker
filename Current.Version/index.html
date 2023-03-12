@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas Game</title>
+    <style>
+        body {
+            height: 100%;
+            margin: 0;
+        }
+        
+        canvas {
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body> 
+  <button id="start-button">StartGame</button>
+  <canvas id="canvas" width="1200" height="550"></canvas>
+
+  <audio src="sounds/bckMusic.mp3" controls autoplay loop>
+  </audio>
+
+  <audio controls autoplay>
+    <source src="sounds/bckMusic.ogg" type="bckMusic/ogg">
+    <source src="sounds/bckMusic.mp3" type="bckMusic/mpeg">
+    <source src="sounds/bckMusic.wav" type="audio/wav">
+
+    Your browser does not support the audio element.
+  </audio>
+
+  <script src="game.js"></script>
+</body>
+</html>
